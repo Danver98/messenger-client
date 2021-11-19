@@ -1,4 +1,4 @@
-package com.danver.chatter
+package com.danver.messenger
 
 import org.junit.Test
 

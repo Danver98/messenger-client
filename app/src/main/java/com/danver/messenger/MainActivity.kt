@@ -1,4 +1,4 @@
-package com.danver.chatter
+package com.danver.messenger
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
