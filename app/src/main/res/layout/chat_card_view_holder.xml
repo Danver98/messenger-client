@@ -65,7 +65,7 @@
             android:id="@+id/newMessagesCountTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/rounder_border"
+            android:background="@drawable/message_counter_background"
             android:backgroundTint="#B3B0B0"
             android:elevation="15dp"
             android:gravity="center"
